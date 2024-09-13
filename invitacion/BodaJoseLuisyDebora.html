@@ -1807,7 +1807,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
       var flag = true;
       var err = '';
 
-
       // Variables del form para validar.
       var asistenteName = $.trim($("#nombreAsistente").val());
       var asistenteComentarios = $.trim($("#comentariosAsistente").val());
@@ -1845,12 +1844,10 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     }
 
-
     // Enviar asistencia
     $('body').on('click', '#sendAsistencia', function(e) {
 
       e.preventDefault();
-
 
       if (isOkAsistencia()) //Form bien validado
       {
@@ -1870,7 +1867,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
         // for (var pair of datos.entries()) {
         //   console.log(pair[0] + ", " + pair[1]);
         // }
-
 
         // Envio con fetch los datos mediante POST
         fetch(_pathApp + "producto/fetchs/confirmar-asistencia.php", {
@@ -1897,12 +1893,9 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
               $("#sendAsistencia").text(lang_confirmarAsistencia);
               $("#sendAsistencia").prop("disabled", false);
 
-
               // Oculto elementos del form y reseteo
               $('#formAsistencia')[0].reset();
               $('#modalAsistencia .formulario-content, #modalAsistencia .modal-footer, #modalAsistencia h5').hide();
-
-
 
               // Acomodo el css para centrar mensaje
               $('#modalAsistencia .modal-body').addClass('fix-height');
@@ -1911,7 +1904,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
               $('#modalAsistencia .msj-content').html(
                 "<h5>" + lang_asistenciaMsjExito_1 + "</h5><p>" + lang_asistenciaMsjExito_2 + "</p>"
               ).show();
-
 
               // Cierro modal y vuelvo a activar form
               setTimeout(function() {
@@ -1931,8 +1923,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     });
   </script>
-
-
 
   <!-- Cuenta regresiva -->
   <script>
@@ -1963,8 +1953,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
       $("#minutos .number").text(minutes);
       $("#segundos .number").text(seconds);
 
-
-
       // If the count down is finished, write some text
       if (distance < 0) {
         clearInterval(x);
@@ -1974,8 +1962,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
       }
     }, 1000);
   </script>
-
-
 
   <!-- Modal sugerir cancion -->
   <script>
@@ -1993,11 +1979,8 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     });
 
-
-
     // Validacion de form.
     function isOkSugerirCancion() {
-
 
       // Remuevo mensajes de error anteriores
       $("#error-form").remove();
@@ -2006,13 +1989,10 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
       var flag = true;
       var err = '';
 
-
       // Variables del form para validar.
       var sugerenciaName = $.trim($("#nombreSugerencia").val());
       var sugerenciaDescription = $.trim($("#descripcionSugerencia").val());
       var sugerenciaLink = $.trim($("#linkSugerencia").val());
-
-
 
       // Descripcion
       if (sugerenciaDescription == '') {
@@ -2049,7 +2029,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
           err = lang_caracteresNombreSugerencia;
         }
       }
-
 
       // Si hay error
       if (flag === false) {
@@ -2154,8 +2133,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
-
   <!-- Modal Vestuario -->
   <script>
     // Abrir modal
@@ -2169,8 +2146,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     });
   </script>
-
-
 
   <!-- Modal Tips -->
   <script>
@@ -2186,8 +2161,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
-
   <!-- Modal Menu -->
   <script>
     // Abrir modal
@@ -2201,7 +2174,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     });
   </script>
-
 
   <!-- Modal Tarjeta -->
   <script>
@@ -2217,8 +2189,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
-
   <!-- Modal Hotel -->
   <script>
     // Abrir modal
@@ -2232,8 +2202,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     });
   </script>
-
-
 
   <!-- Modal Bus -->
   <script>
@@ -2249,8 +2217,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
-
   <!-- Modal regalos -->
   <script>
     // Abrir modal
@@ -2262,10 +2228,9 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
         backdrop: 'static'
       })
       $('#iban-msj').text('');
-      
+
     });
   </script>
-
 
   <!-- Copy Clipboard -->
   <script>
@@ -2287,8 +2252,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
 
     	});
   </script>
-
-
 
   <!-- Modal como llegar -->
   <script>
@@ -2331,8 +2294,6 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
-
   <!-- Instagram parallax -->
   <script>
     // Si el ancho es de Telefono
@@ -2361,11 +2322,9 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     });
   </script>
 
-
   <!-- Api Maps-->
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_3ZK1od6HtymslnbVFuzpUbMfrCRVqzM&callback=initMap&r=1369269056">
   </script>
-
 
   <!-- Config map -->
   <script>
@@ -2527,10 +2486,8 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     }
   </script>
 
-
   <!-- AddEvent script -->
   <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-
 
   <!-- AddEvent Settings -->
   <script type="text/javascript">
@@ -2571,15 +2528,7 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
     };
   </script>
 
-
-
   <!-- Idiomas segun config de invitacion -->
-  
-
-
-
-
-
 
 <!-- Portada parallax -->
 <script>
@@ -2608,13 +2557,5 @@ Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadale
   });
 </script>
 
-
-
-
-
-
-
-
 </body>
-
 </html>
