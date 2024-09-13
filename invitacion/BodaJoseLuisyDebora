@@ -1,0 +1,2627 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="es-ES">
+
+<head>
+
+  <!-- Head -->
+  <meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="robots" content="noindex, nofollow" />
+
+<meta name="color-scheme" content="light only">
+
+<title>Boda de José Luis y Débora</title>
+
+
+<!-- Listado de css con version dinamica segun modificacion de archivo -->
+<link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/bootstrap.min.css?v=1721646306'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/slick.css?v=1721646305'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/slick-theme.css?v=1721646305'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/jquery.fancybox.min.css?v=1721646305'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/addEvent.css?v=1721646306'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/style.css?v=1721434954'/><link rel='stylesheet' href='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/css/responsive.css?v=1721434953'/>
+
+<!-- Color para navegadores moviles -->
+<meta name="theme-color" content="#C6D7CF">
+
+
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
+
+
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon.ico">
+<link rel="icon" sizes="16x16 32x32 64x64" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon.ico">
+<link rel="icon" type="image/png" sizes="196x196" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-192.png">
+<link rel="icon" type="image/png" sizes="160x160" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-96.png">
+<link rel="icon" type="image/png" sizes="64x64" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-16.png">
+<link rel="apple-touch-icon" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-180.png">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/favicon-144.png">
+<meta name="msapplication-config" content="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/faviconit/browserconfig.xml">
+</head>
+
+<body>
+
+  
+    <!-- Loader -->
+    <!-- START PRELOADER AREA-->
+<div class="preloader-area">
+
+  <div class="d-flex justify-content-center align-items-center h-100">
+    <div class="loader"></div>
+  </div>
+
+</div>
+<!-- END PRELOADER AREA -->
+
+    
+    <!-- Portada -->
+    <section class="portada">
+
+  <div class="portada-flor-izq-sup"></div>
+
+  <div class="portada-flor-der-inf"></div>
+
+  <div class="portada-flor-izq-inf"></div>
+
+  <div class="container">
+    <div class="row d-flex justify-content-center align-items-center">
+
+
+      <div class="content-portada text-center">
+
+
+        <!-- Idiomas -->
+        
+
+
+
+        <div class="box-nombres-fecha-portada">
+          <span class="fecha">
+            28.09.2024          </span>
+          <h1>
+            José Luis            <br class="d-md-none">
+            <span>&</span>
+            <br class="d-md-none">
+            Débora          </h1>
+          <div class="line"></div>
+        </div>
+
+        <div class="box-frase-portada">
+          <p>
+            <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/comilla-apertura.svg" alt=""> 
+
+            Bienvenidos a nuestra web de boda dónde encontrareis toda la información para compartir este día tan especial con nosotros.
+            <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/comilla-cierre.svg" alt="">
+          </p>
+        </div>
+
+        <div class="d-flex justify-content-center align-items-center">
+          <div class="flecha-continuar"></div>
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+  </div>
+
+</section>
+    <!-- Cuenta Regresiva -->
+
+<section class="cuenta-regresiva">
+  <div class="container">
+    <div class="row d-flex justify-content-center align-items-center">
+
+      <div class="box-aros d-flex justify-content-center align-items-center">
+        <div class="box-circulo text-center">
+
+          <span class="falta">Hello</span>
+
+          <img class="divisor" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/img_linea01.svg" alt="">
+
+          <div id="reloj" class="reloj">
+
+            <div id="dias" class="reloj-col">
+              <span class="number"></span>
+              <span class="time">días</span>
+            </div>
+
+            <div id="horas" class="reloj-col">
+              <span class="number"></span>
+              <span class="time">hs</span>
+            </div>
+
+            <div id="minutos" class="reloj-col">
+              <span class="number"></span>
+              <span class="time">min</span>
+            </div>
+
+            <div id="segundos" class="reloj-col no-border">
+              <span class="number"></span>
+              <span class="time">seg</span>
+            </div>
+
+            <div class="clearfix"></div>
+
+          </div>
+
+
+          <div class="d-flex justify-content-center align-items-center">
+
+            <!-- Corazon -->
+            <div class="corazon-falta"></div>
+
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+    <!-- Ceremonia - Fiesta-->
+    <section class="ceremonia-fiesta">
+
+  <div class="ceremonia-fiesta-flor-der"></div>
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-6 mx-auto col-ceremonia text-center">
+
+        <div class="anim-anillos"></div>
+
+        <br>
+
+        <h3>
+          Pre-Boda        </h3>
+
+        <div class="info-col">
+
+          <div class="info-box">
+            <h6>Día</h6>
+            <p>Viernes 27 de Septiembre - 19:00 h</p>
+            <a href="#" class="boton addeventatc">
+
+              <span class="nameBtn">Agendar</span>
+
+              <span class="start">09/27/2024 07:00 PM</span>
+              <span class="end">09/28/2024 12:00 AM</span>
+              <span class="timezone">Europe/Madrid</span>
+              <span class="title">Boda de José Luis y Débora (Preboda)</span>
+
+            </a>
+          </div>
+
+          <div class="info-box">
+            <h6>Lugar</h6>
+            <p>La Sole del Pimpi</p>
+            <a href="#" data-evento="Ceremonia" class="boton confirmar-asistencia">Confirmar asistencia</a>
+          </div>
+
+          <div class="info-box">
+            <h6>Dirección</h6>
+            <p>C. Zegrí, 4, Distrito Centro, Málaga</p>
+            <a href="#" data-evento="Ceremonia" class="boton modal-como-llegar">¿Cómo llegar?</a>
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <div class="col-md-6 mx-auto col-fiesta text-center">
+
+        <div class="anim-fiesta"></div>
+
+        <br>
+
+        <h3>
+          Boda        </h3>
+
+        <div class="info-col">
+
+          <div class="info-box">
+            <h6>Día</h6>
+            <p>Sábado 28 de Septiembre
+<br>
+Ceremonia: 17:30 h
+<br>
+Celebración: 20:30h</p>
+            <a href="#" class="boton addeventatc">
+              <span class="nameBtn">Agendar</span>
+
+              <span class="start">09/28/2024 05:30 PM</span>
+              <span class="end">09/28/2024 05:00 AM</span>
+              <span class="timezone">Europe/Madrid</span>
+              <span class="title">Boda de José Luis y Débora (Boda)</span>
+            </a>
+          </div>
+
+          <div class="info-box">
+            <h6>Lugar</h6>
+            <p>Ceremonia: Iglesia de San Juan Bautista.
+<br>
+Celebración:  Hacienda Nadales</p>
+            <a href="#" data-evento="Fiesta" class="boton confirmar-asistencia">Confirmar asistencia</a>
+          </div>
+
+          <div class="info-box">
+            <h6>Dirección</h6>
+            <p>Ceremonia: <strong><a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0xd72f7960a0d93d9:0x4c5de4593229a6a5?sa=X&ved=2ahUKEwiy2rDr69KEAxVkfKQEHbMLD0kQ4kB6BAgPEAA" class="link" target="_blank">C. Cinco Bolas, 9, Centro, Málaga</a></strong>
+<br>
+Celebración: <strong><a href="https://www.google.com/maps/place/Hacienda+Nadales/@36.7586953,-4.425044,15z/data=!4m2!3m1!1s0x0:0x5a2b7af23409ad48?sa=X&ved=2ahUKEwip-7__3cSEAxXW1QIHHVQQDHUQ_BJ6BAhVEAA" class="link" target="_blank">Cmo de Casabermeja, 128, Cdad. Jardín, Málaga</a></strong></p>
+            <!--
+            <a href="#" data-evento="Fiesta" class="boton modal-como-llegar">¿Cómo llegar?</a>
+-->
+          </div>
+
+          <!-- <div class="info-box">
+            <h6>Tarjeta</h6>
+            <p>Conoce todos los detalles sobre las tarjetas</p>
+            <a href="#" class="boton modal-tarjeta">Ver más</a>
+          </div> -->
+
+        </div>
+
+      </div>
+
+
+    </div>
+  </div>
+</section>
+    <!-- Galeria-->
+    <section class="galeria">
+
+
+  <div class="container">
+
+
+    <div class="row text-center d-flex justify-content-center align-items-center">
+
+      <div class="content-galeria">
+
+        <h2 class="title">José Luis & Débora</h2>
+        <p class="subtitle">Retratos de nuestro amor</p>
+
+        <div class="anim-galeria"></div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+  <div class="content-fotos">
+
+    <div class="shadow-left"></div>
+    <div class="shadow-right"></div>
+
+    <div class="carrusel">
+
+
+      
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/1.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/1.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/2.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/2.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/3.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/3.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/4.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/4.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/5.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/5.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/6.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/6.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/7.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/7.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/8.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/8.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+        <!-- Impmrimo el bloque con la imagen -->
+
+        <div>
+          <div class="polaroid">
+
+            <a href="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/9.jpg" data-fancybox="galeria">
+              <img src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/galeria/9.jpg" alt="">
+            </a>
+
+          </div>
+        </div>
+
+      
+
+    </div>
+
+  </div>
+
+
+
+
+</section>
+    <!-- Fiesta-->
+    <section class="fiesta">
+
+  <div class="container">
+    <div class="row text-center d-flex justify-content-center align-items-center">
+
+
+
+      <div class="col-md-12">
+        <h2 class="title">Información importante</h2>
+        <p class="subtitle">Hagamos juntos una fiesta única. Os dejamos algunos detalles a tener en cuenta.</p>
+      </div>
+
+
+
+
+      <!-- Canciones 
+      <div class="col-md-4 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+
+
+          <h3>Música</h3>
+
+          <div class="d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-musica"></div>
+          </div>
+
+
+          <p>
+            ¿Cuál es la canción que no debe faltar en la playlist de la fiesta?          </p>
+
+          <a href="#" class="boton sugerir-cancion">Sugerir canción</a>
+
+
+        </div>
+
+      </div>
+-->
+
+
+
+      <!-- Dress Code 
+      <div class="col-md-4 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+          <h3>Dress Code</h3>
+
+          <div class="d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-vestuario"></div>
+          </div>
+
+          <p>
+            Una orientación para <br> tu vestuario          </p>
+
+          <a href="#" class="boton modal-vestuario">
+            Ver más          </a>
+
+        </div>
+
+      </div>
+-->
+
+
+
+
+
+
+
+      <!-- Hotel -->
+      <div class="col-md-6 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+          <h3>Hoteles</h3>
+
+
+          <div class=" d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-hotel"></div>
+          </div>
+
+
+          <p>
+            ¿Necesitas alojamiento?          </p>
+
+
+          <a href="#" class="boton  modal-hotel">
+            Ver más          </a>
+
+        </div>
+
+      </div>
+
+
+
+
+      <!-- Bus -->
+      <div class="col-md-6 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+          <h3>Autobús</h3>
+
+
+          <div class=" d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-bus"></div>
+          </div>
+
+
+          <p>
+            Conoce todos los detalles sobre el autobús          </p>
+
+
+          <a href="#" class="boton  modal-bus">
+            + Info          </a>
+
+        </div>
+
+      </div>
+
+
+
+
+      <!-- Notas -->
+      <div class="col-md-6 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+          <h3>Itinerario</h3>
+
+
+          <div class=" d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-tips"></div>
+          </div>
+
+
+          <p>
+            Conoce el timing de nuestra boda          </p>
+
+
+          <a href="#" class="boton  modal-tips">
+            + Info          </a>
+
+        </div>
+
+      </div>
+
+
+      
+
+
+      <!-- Menu -->
+      <div class="col-md-6 item-fiesta">
+
+        <div class="w-100 content-item-fiesta d-flex flex-column justify-content-between align-items-center">
+
+          <h3>Menú</h3>
+
+
+          <div class=" d-flex justify-content-center align-items-center content-anim-fiesta">
+            <div class="anim-menu"></div>
+          </div>
+
+
+          <p>
+            ¿Alergias o intolerancias?          </p>
+
+
+          <a href="#" class="boton  modal-menu">
+            + Info          </a>
+
+        </div>
+
+      </div>
+
+
+
+
+    </div>
+  </div>
+</section>
+    <!-- Regalos-->
+    <section class="regalos">
+
+
+  <div class="regalos-flor-der"></div>
+
+  <div class="container">
+    <div class="row text-center d-flex justify-content-center align-items-center">
+
+      <h2 class="title">Regalos</h2>
+      <p class="subtitle">Si deseáis regalarnos algo más que vuestra presencia…</p>
+
+      <div class="w-100">
+
+        <div class="anim-regalos"></div>
+
+      </div>
+
+      <br>
+
+      <a href="#" class="boton modal-regalos">Ver más</a>
+
+    </div>
+  </div>
+</section>
+    <!-- Instagram-->
+    <section class="instagram">
+
+
+  <div class="container">
+    <div class="row text-center d-flex justify-content-center align-items-center">
+
+      <h2 class="title">Compartimos este día junto a ti</h2>
+      <p class="subtitle">Comparte tus fotos y vídeos de este hermoso día</p>
+
+      <div class="w-100">
+
+        <div class="anim-instagram"></div>
+
+      </div>
+
+      <div class="w-100">
+
+        <a target="_blank" href="https://www.instagram.com/explore/tags/joseluisydebora" class="hashtag">#joseluisydebora</a>
+
+      </div>
+
+      <br>
+
+      <a target="_blank" href="https://www.instagram.com/explore/tags/joseluisydebora" class="boton">Ver en Instagram</a>
+
+    </div>
+  </div>
+</section>
+    <!-- Footer-->
+    <section class="footer">
+  <div class="container">
+
+    <div class="row">
+
+
+
+      <div class="col-md-6 col-nombres-footer d-flex justify-content-center align-items-center">
+
+        <h4>
+          José Luis          <br class='d-md-none'>
+          <span>&</span>
+          <br class='d-md-none'>
+          Débora        </h4>
+
+      </div>
+
+
+      <div class="col-md-6 col-acciones-footer d-flex justify-content-center align-items-center">
+
+        <ul>
+
+          <li>
+            <a href="#" data-evento="Ceremonia" class="confirmar-asistencia">Confirmar asistencia a la preboda</a>
+          </li>
+
+          <li>
+            <div title="" class="addeventatc">
+
+              <span class="nameBtn">Agendar preboda</span>
+
+              <span class="start">09/27/2024 07:00 PM</span>
+              <span class="end">09/28/2024 12:00 AM</span>
+              <span class="timezone">Europe/Madrid</span>
+              <span class="title">Boda de José Luis y Débora (Preboda)</span>
+
+            </div>
+          </li>
+          
+          <!--
+          <li>
+            <a href="#" class="sugerir-cancion">Sugerir canción</a>
+          </li>
+          -->
+          
+          <li>
+            <a href="#" data-evento="Fiesta" class="confirmar-asistencia">Confirmar asistencia a la boda</a>
+          </li>
+
+          <li>
+            <div title="" class="addeventatc">
+
+              <span class="nameBtn">Agendar boda</span>
+
+              <span class="start">09/28/2024 05:30 PM</span>
+              <span class="end">09/28/2024 05:00 AM</span>
+              <span class="timezone">Europe/Madrid</span>
+              <span class="title">Boda de José Luis y Débora (Boda)</span>
+
+            </div>
+          </li>
+
+
+        </ul>
+
+      </div>
+
+
+
+    </div>
+
+  </div>
+</section>
+    <!-- Firma-->
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <!-- Modal cambio de idioma -->
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+<!-- Musica -->
+
+
+
+<!-- Si esta en modo "Modelo" muestro el repdorductor de musica sin musica -->
+
+    <!-- Modal asistencia-->
+    <div id="modalAsistencia" class="modal fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/img_circuloCeremonia.svg" alt="">
+
+      </div>
+
+      <div class="modal-header">
+        <h5 class="modal-title"></h5>
+      </div>
+
+      <div class="modal-body">
+
+
+        <div class="formulario-content">
+
+          <form id="formAsistencia" action="">
+
+
+            <div class="form-group d-flex justify-content-around custom-control custom-radio custom-control-inline">
+              <div class="form-check">
+                <input class="form-check-input custom-control-input" type="radio" name="asistencia" id="1" value="Si" checked>
+                <label class="form-check-label custom-control-label" for="1">
+                  ¡Sí! Confirmo.                </label>
+              </div>
+              <div class="form-check">
+                <input class="custom-control-input" type="radio" name="asistencia" id="2" value="No">
+                <label class="custom-control-label" for="2">
+                  No puedo :(                </label>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <input type="text" class="form-control" id="nombreAsistente" name='nombre' placeholder="Indica tu nombre completo">
+            </div>
+
+
+            <div class="form-group">
+              <textarea id="comentariosAsistente" class="form-control" name="comentarios" id="" rows="2" placeholder="Indica algún dato importante"></textarea>
+            </div>
+
+            <input id="eventoAsistencia" type="hidden" name="evento" value="">
+            <input type="hidden" name="invitacion" value="aFcwaUk4eXVobVpXb1dtMkRnSXFXdz09">
+            <input type="hidden" name="token" value="26481a4b320ad49cdf7d25bd25cb4218">
+            <input type="hidden" name="lang" value="es">
+            <input type="hidden" name="country" value="ar">
+
+
+          </form>
+
+        </div>
+
+        <div class="msj-content d-flex flex-column justify-content-center"></div>
+
+
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" id="sendAsistencia" class="boton">Enviar</button>
+      </div>
+
+
+
+    </div>
+
+
+  </div>
+</div>
+    <!-- Modal sugerir cancion-->
+    <div id="modalSugerirCancion" class="modal fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/img_circuloCanciones.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Sugerir Canción</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+
+        <div class="formulario-content">
+
+          <form id="formSugerirCancion" action="">
+
+            <div class="form-group">
+              <input type="text" class="form-control" id="nombreSugerencia" name='nombre' placeholder="Tu nombre">
+            </div>
+
+            <div class="form-group">
+              <input type="text" class="form-control" id="descripcionSugerencia" name='descripcion' placeholder="Nombre canción y autor">
+            </div>
+
+            <div class="form-group">
+              <input type="text" class="form-control" id="linkSugerencia" name='link' placeholder="Si quieres pon el link de YouTube, Spotify, etc.">
+            </div>
+
+
+            <input type="hidden" name="invitacion" value="aFcwaUk4eXVobVpXb1dtMkRnSXFXdz09">
+            <input type="hidden" name="token" value="26481a4b320ad49cdf7d25bd25cb4218">
+            <input type="hidden" name="lang" value="es">
+            <input type="hidden" name="country" value="ar">
+
+          </form>
+
+        </div>
+
+        <div class="msj-content d-flex flex-column justify-content-center"></div>
+
+
+      </div>
+
+
+      <div class="modal-footer">
+        <button type="button" id="sendSugerenciaCancion" class="boton">Sugerir canción</button>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal vestuario-->
+    <div id="modalVestuario" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/vestuario.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Dress Code</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p>Contenido Dress Code</p>
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal tips-->
+    <div id="modalTips" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/tips.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Itinerario</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p></p>
+
+        <img class="itinerario" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/itinerario2.jpg" alt="itinerario">
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal menu-->
+    <div id="modalMenu" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/menu.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Menú</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p>Por favor si tenéis alguna intolerancia, alergia o necesitáis menú especial (vegano - vegetariano), es muy importante que lo hagáis saber y contactéis con los novios.</p>
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+
+    <!-- Modal tarjeta-->
+    <div id="modalTarjeta" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/tarjeta.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Tarjeta</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p>Contenido modal Tarjeta</p>
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal hotel-->
+    <div id="modalHotel" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/hotel.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Hoteles</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p>Alojamientos recomendados:
+  <br><br>
+  • <a href="http://www.hotel-carlosvmalaga.com/" class="link" target="_blank">Hotel Carlos V</a>
+  <br>
+  • <a href="https://www.booking.com/searchresults.en-gb.html?aid=311984&label=chinitas-urban-hostel-hTVgAgyPfjmlgLFZ8s2WAQS275101279103%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-2009482408685%3Akwd-71563958126%3Alp9181131%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXwxhKG0pUU-mcMVT-JwQpc&no_rooms=1&srpvid=0b5c8c3c48c60231&highlighted_hotels=1128083&redirected=1&city=-390787&hlrd=no_dates&group_adults=2&source=hotel&group_children=0&expand_sb=1&keep_landing=1&sid=5a3929eae7d67f1a932fd26285a44f8f#no_availability_msg" class="link" target="_blank">Hotel Chinitas</a>
+  <br>
+  • <a href="https://www.hotelmalagapremium.com/" class="link" target="_blank">Hotel Málaga Premium</a>
+  <br>
+  • <a href="https://www.marriott.com/en-us/hotels/agpmg-ac-hotel-malaga-palacio/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" class="link" target="_blank">AC Málaga Palacio</a>
+  <br>
+  • <a href="https://www.hotelmolinalario.com/?utm_source=gmb&utm_medium=organic" class="link" target="_blank">Hotel Molina Larios</a>
+  <br>
+  • <a href="https://room-matehotels.com/en/valeria/" class="link" target="_blank">Room Mate Valeria</a>
+  <br>
+  • <a href="https://www.sohohoteles.com/destinos/hotel-soho-boutique-malaga-3/" class="link" target="_blank">Soho Boutique Colon</a>
+  <br>
+  • <a href="https://www.onlyyouhotels.com/hoteles/only-you-hotel-malaga/?y_source=1_MjQxNDE0MTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D" class="link" target="_blank">Only You Málaga</a>
+  <br><br>
+  Existen opciones de apartamentos, a consultar.</p>
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal bus-->
+    <div id="modalBus" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/bus.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Autobús</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <p>Salidas 16:30 h 
+  <br>
+  Por favor contactar a los novios para más info.</p>
+
+      </div>
+
+
+      <div class="modal-footer"></div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal regalos-->
+    <div id="modalRegalos" class="modal modal-responsive fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+        <img class="" src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/img/img_circuloRegalo.svg" alt="">
+
+      </div>
+
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title">Regalos</h5>
+
+      </div>
+
+      <div class="modal-body">
+
+        <!-- Copiar IBAN/CBU -->
+        <p style="display: inline">IBAN - Nº de Cuenta:</p>
+        
+        
+        <p id="iban" style="display: visible" data-iban="ES05 0049 7245 2029 1003 5243">
+          ES05 0049 7245 2029 1003 5243        </p>
+
+        <br>
+
+        <a id="copy-iban" class="link" href="#">Copiar IBAN</a>
+        
+        <br>
+        
+        <p id="iban-msj"></p>
+        
+      </div>
+
+      <div class="modal-footer">
+      </div>
+
+
+    </div>
+  </div>
+</div>
+    <!-- Modal mapa-->
+    <div id="modalMapa" class="modal fade" tabindex="-1">
+  <div class="modal-dialog modal-lg modal-dialog-centered">
+    <div class="modal-content">
+
+      <div class="img-top-modal d-flex justify-content-center align-items-start">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+
+      </div>
+
+
+      <div class="modal-header">
+
+        <h5 class="modal-title"></h5>
+
+      </div>
+
+      <div class="modal-body">
+        <div id="googleMap"></div>
+      </div>
+
+      <div class="modal-footer">
+        <a class="boton ampliar-mapa" target="_blank" href="#">Ampliar mapa</a>
+      </div>
+
+
+    </div>
+  </div>
+</div>
+
+    <!-- Modal cambio de idioma -->
+    
+
+  
+
+  <!-- Scripts -->
+  <!-- Varaibles para JS desde config -->
+<script>
+  var _pathApp = "https://fixdate.io/";
+
+  var _pathProducto = "https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/";
+
+  var tokenProducto = "26481a4b320ad49cdf7d25bd25cb4218";
+
+
+  // Idioma
+  var langJs = "es";
+
+  // Idioma js en MODELO e INVITACION
+
+      var langJsVariante = "es-ES";
+
+    // Cuenta regresiva
+    var fechaCuentaRegresiva = "09/28/2024 19:00:00";
+
+    // Mapas
+    var latitudFiesta = 0;
+    var longitudFiesta = 0;
+    var latitudCeremonia = 36.721870494803;
+    var longitudCeremonia = -4.4176383573523;
+
+    // Links Mapas
+    var linkMapsFiesta = "";
+    var linkMapsCeremonia = "https://maps.app.goo.gl/QCbN1QF4VfdYamWr5";
+
+
+  </script>
+
+
+<!-- Idioma por defecto js -->
+<script>
+  var langDefault = 'es-AR';
+</script>
+
+
+
+<!-- // Consulto tipo de dispositivo -->
+<script>
+  if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+
+    var device = 'mobile';
+  } else {
+    var device = 'desktop';
+  }
+</script>
+
+
+
+<!-- Funciones y varialbes globales -->
+<script>
+  // Funcion para validar formato url
+  function is_url(str) {
+    regexp = /^(?:(?:https?|ftp):\/\/)?(?:(?!(?:10|127)(?:\.\d{1,3}){3})(?!(?:169\.254|192\.168)(?:\.\d{1,3}){2})(?!172\.(?:1[6-9]|2\d|3[0-1])(?:\.\d{1,3}){2})(?:[1-9]\d?|1\d\d|2[01]\d|22[0-3])(?:\.(?:1?\d{1,2}|2[0-4]\d|25[0-5])){2}(?:\.(?:[1-9]\d?|1\d\d|2[0-4]\d|25[0-4]))|(?:(?:[a-z\u00a1-\uffff0-9]-*)*[a-z\u00a1-\uffff0-9]+)(?:\.(?:[a-z\u00a1-\uffff0-9]-*)*[a-z\u00a1-\uffff0-9]+)*(?:\.(?:[a-z\u00a1-\uffff]{2,})))(?::\d{2,5})?(?:\/\S*)?$/;
+    if (regexp.test(str)) {
+      return true;
+    } else {
+      return false;
+    }
+  }
+</script>
+
+
+
+<!-- Lottie -->
+<script src="https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/lottie_svg.min.js"></script>
+<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+<!-- <script src="https://unpkg.com/@lottiefiles/lottie-interactivity@latest/dist/lottie-interactivity.min.js"></script> -->
+
+
+
+<!-- Animacion loader -->
+<script>
+  let svgContainerLoader = document.querySelector('.loader');
+
+  let animLoader = bodymovin.loadAnimation({
+    wrapper: svgContainerLoader,
+    animType: 'svg',
+    loop: true,
+    path: _pathProducto + "img/corazon.json"
+  });
+</script>
+
+
+
+<!-- Soporte WEBP -->
+<script>
+  function support_format_webp() {
+    var elem = document.createElement('canvas');
+
+    if (!!(elem.getContext && elem.getContext('2d'))) {
+      // was able or not to get WebP representation
+      return elem.toDataURL('image/webp').indexOf('data:image/webp') == 0;
+    } else {
+      // very old browser like IE 8, canvas not supported
+      return false;
+    }
+  }
+</script>
+
+
+
+
+<!-- Listado de js con version dinamica segun modificacion de archivo -->
+<script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/langs/js/es-ES.js?v=1721646368'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/jquery-3.5.1.min.js?v=1721646308'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/../../public/js/jquery.cookie.js?v=1645580925'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/../../public/js/change-lang.js?v=1645580924'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/waypoint/noframework.waypoints.min.js?v=1721647092'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/parallax.min.js?v=1721646309'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/popper.min.js?v=1721646310'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/bootstrap.min.js?v=1721646308'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/slick.min.js?v=1721646310'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/jquery.fancybox.min.js?v=1721646308'></script><script type='text/javascript' src='https://fixdate.io/invitacion-final/BodaJoseLuisyDebora/js/scripts.js?v=1721646996'></script>
+
+
+
+<!-- Loader -->
+<script>
+  var prealoaderOption = $(window);
+
+  prealoaderOption.on("load", function() {
+
+    var preloader = $('.loader');
+    var preloaderArea = $('.preloader-area');
+
+    preloader.fadeOut(500);
+    preloaderArea.delay(100).fadeOut(500);
+
+    // Detengo animacion loader
+    animLoader.destroy();
+
+    // Animaciones de portada
+    animFlores1.setSpeed(0.6);
+    animFlores1.play();
+    animFlores2.setSpeed(0.6);
+    animFlores2.play();
+
+  });
+</script>
+
+
+
+
+
+
+  
+
+
+  <!-- Animaciones de diseño -->
+  <script>
+    let svgContainerMusicAnimIcon = document.querySelector('.music-anim-icon');
+
+    let animMusicAnimIcon = bodymovin.loadAnimation({
+      wrapper: svgContainerMusicAnimIcon,
+      animType: 'svg',
+      autoplay: false,
+      loop: true,
+      path: _pathProducto + "img/music-player-icon.json"
+    });
+  </script>
+
+
+  
+
+
+  <!-- Animacion Flores-->
+  <script>
+    let svgContainerFlores1 = document.querySelector('.portada-flor-izq-sup');
+
+    let animFlores1 = bodymovin.loadAnimation({
+      wrapper: svgContainerFlores1,
+      animType: 'svg',
+      autoplay: false,
+      loop: false,
+      path: _pathProducto + "img/img_flores01.json"
+    });
+
+    var wpFlores1 = new Waypoint({
+      element: document.querySelector('.box-nombres-fecha-portada'),
+      handler: function() {
+        animFlores1.stop();
+        animFlores1.play()
+      }
+    });
+
+
+
+    let svgContainerFlores2 = document.querySelector('.portada-flor-der-inf');
+
+    let animFlores2 = bodymovin.loadAnimation({
+      wrapper: svgContainerFlores2,
+      animType: 'svg',
+      autoplay: false,
+      loop: false,
+      path: _pathProducto + "img/img_flores02.json"
+    });
+
+    var wpFlores2 = new Waypoint({
+      element: document.querySelector('.box-nombres-fecha-portada'),
+      handler: function() {
+        animFlores2.stop();
+        animFlores2.play()
+      }
+    });
+
+
+    let svgContainerFlores3 = document.querySelector('.portada-flor-izq-inf');
+
+    let animFlores3 = bodymovin.loadAnimation({
+      wrapper: svgContainerFlores3,
+      animType: 'svg',
+      autoplay: false,
+      loop: false,
+      path: _pathProducto + "img/img_flores03.json"
+    });
+
+    var wpFlores3 = new Waypoint({
+      element: document.querySelector('.flecha-continuar'),
+      handler: function() {
+        animFlores3.stop();
+        animFlores3.play();
+
+      }
+    });
+
+
+    let svgContainerFlores4 = document.querySelector('.ceremonia-fiesta-flor-der');
+
+    let animFlores4 = bodymovin.loadAnimation({
+      wrapper: svgContainerFlores4,
+      animType: 'svg',
+      autoplay: false,
+      loop: false,
+      path: _pathProducto + "img/img_flores04.json"
+    });
+
+    var wpFlores4 = new Waypoint({
+      element: document.querySelector('.info-col'),
+      handler: function() {
+        animFlores4.stop();
+        animFlores4.play()
+      }
+    });
+
+
+    let svgContainerFlores5 = document.querySelector('.regalos-flor-der');
+
+    let animFlores5 = bodymovin.loadAnimation({
+      wrapper: svgContainerFlores5,
+      animType: 'svg',
+      autoplay: false,
+      loop: false,
+      path: _pathProducto + "img/img_flores05.json"
+    });
+
+    var wpFlores5 = new Waypoint({
+      element: document.querySelector('.anim-musica'),
+      handler: function() {
+        animFlores5.stop();
+        animFlores5.play();
+      }
+    });
+  </script>
+
+
+
+  <!-- Animacion flecha scroll -->
+  <script>
+    let svgContainerFlechaScroll = document.querySelector('.flecha-continuar');
+
+    let animFlechaScroll = bodymovin.loadAnimation({
+      wrapper: svgContainerFlechaScroll,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/down-scroll.json"
+    });
+
+    animFlechaScroll.setSpeed(0.6);
+  </script>
+
+
+  <!-- Animacion corazon seccion cuenta regresiva-->
+  <script>
+    let svgContainerCorazonFalta = document.querySelector('.corazon-falta');
+
+    let animCorazonFalta = bodymovin.loadAnimation({
+      wrapper: svgContainerCorazonFalta,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/corazon-falta.json"
+    });
+  </script>
+
+
+
+  <!-- Animacion anillos -->
+  <script>
+    let svgContainerAnillos = document.querySelector('.anim-anillos');
+
+    let animAnillos = bodymovin.loadAnimation({
+      wrapper: svgContainerAnillos,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_anillos.json"
+    });
+
+    animAnillos.play();
+  </script>
+
+
+
+  <!-- Animacion galeria -->
+  <script>
+    let svgContainerGaleria = document.querySelector('.anim-galeria');
+
+    let animGaleria = bodymovin.loadAnimation({
+      wrapper: svgContainerGaleria,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_camara.json"
+    });
+
+    animGaleria.play();
+  </script>
+
+
+
+  <!-- Animacion Musica -->
+  <script>
+    let svgContainerMusica = document.querySelector('.anim-musica');
+
+    let animMusica = bodymovin.loadAnimation({
+      wrapper: svgContainerMusica,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_canciones.json"
+    });
+
+    animMusica.play();
+  </script>
+
+
+
+  <!-- Animacion Vestuario -->
+  <script>
+    let svgContainerVestuario = document.querySelector('.anim-vestuario');
+
+    let animVestuario = bodymovin.loadAnimation({
+      wrapper: svgContainerVestuario,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/vestuario.json"
+    });
+
+    animVestuario.play();
+  </script>
+
+
+  <!-- Animacion Tips -->
+  <script>
+    let svgContainerTips = document.querySelector('.anim-tips');
+
+    let animTips = bodymovin.loadAnimation({
+      wrapper: svgContainerTips,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/tips.json"
+    });
+
+    animTips.play();
+  </script>
+
+
+
+  <!-- Animacion Menu -->
+  <script>
+    let svgContainerMenu = document.querySelector('.anim-menu');
+
+    let animMenu = bodymovin.loadAnimation({
+      wrapper: svgContainerMenu,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/menu.json"
+    });
+
+    animMenu.play();
+  </script>
+
+
+  <!-- Animacion Hotel -->
+  <script>
+    let svgContainerHotel = document.querySelector('.anim-hotel');
+
+    let animHotel = bodymovin.loadAnimation({
+      wrapper: svgContainerHotel,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/hotel.json"
+    });
+
+    animHotel.play();
+  </script>
+
+
+  <!-- Animacion Bus -->
+  <script>
+    let svgContainerBus = document.querySelector('.anim-bus');
+
+    let animBus = bodymovin.loadAnimation({
+      wrapper: svgContainerBus,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/bus.json"
+    });
+
+    animBus.play();
+  </script>
+
+
+  <!-- Animacion canciones -->
+  <script>
+    let svgContainerFiesta = document.querySelector('.anim-fiesta');
+
+    let animFiesta = bodymovin.loadAnimation({
+      wrapper: svgContainerFiesta,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_fiesta.json"
+    });
+
+    animFiesta.play();
+  </script>
+
+
+
+  <!-- Animacion regalos -->
+  <script>
+    let svgContainerRegalos = document.querySelector('.anim-regalos');
+
+    let animRegalos = bodymovin.loadAnimation({
+      wrapper: svgContainerRegalos,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_iconoRegalos.json"
+    });
+
+    animRegalos.play();
+  </script>
+
+
+
+  <!-- Animacion instagram -->
+  <script>
+    let svgContainerInstagram = document.querySelector('.anim-instagram');
+
+    let animInstagram = bodymovin.loadAnimation({
+      wrapper: svgContainerInstagram,
+      animType: 'svg',
+      loop: true,
+      path: _pathProducto + "img/img_iconoCompartimos.json"
+    });
+
+    animInstagram.play();
+  </script>
+
+
+
+  <!-- Opciones carrusel galeria -->
+  <script>
+    $('.carrusel').slick({
+      lazyLoad: 'ondemand',
+      autoplay: true,
+      autoplaySpeed: 2000,
+      centerMode: true,
+      dots: true,
+      centerPadding: '20px',
+      slidesToShow: 3,
+      prevArrow: false,
+      nextArrow: false,
+      responsive: [{
+          breakpoint: 768,
+          settings: {
+            arrows: false,
+            centerMode: true,
+            centerPadding: '40px',
+            slidesToShow: 3
+          }
+        },
+        {
+          breakpoint: 480,
+          settings: {
+            arrows: false,
+            centerMode: true,
+            centerPadding: '40px',
+            slidesToShow: 1
+          }
+        }
+      ]
+    });
+  </script>
+
+
+
+  <!-- Modal Confirmar asistencia -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.confirmar-asistencia', function(e) {
+
+      e.preventDefault();
+
+      // Remuevo mensajes de error anteriores
+      $("#error-form").remove();
+
+      var evento = $(this).attr('data-evento');
+
+      $('#eventoAsistencia').val(evento);
+
+
+      if (evento == 'Fiesta') {
+        var titleModalAsistencia = lang_titleModalAsistenciaFiesta;
+        var rutaImgModalAsistencia = _pathProducto + 'img/img_circuloFiesta.svg';
+        var placeholderAsistencia = lang_placeholderFiesta;
+        var placeholderHeight = "2";
+      }
+
+      if (evento == 'Ceremonia') {
+        var titleModalAsistencia = lang_titleModalAsistenciaCeremonia;
+        var rutaImgModalAsistencia = _pathProducto + 'img/img_circuloCeremonia.svg';
+        var placeholderAsistencia = lang_placeholderCeremonia;
+        var placeholderHeight = "1";
+      }
+
+      $('#modalAsistencia .modal-title').text(titleModalAsistencia);
+      $('#modalAsistencia .img-top-modal img').attr('src', rutaImgModalAsistencia);
+      $('#modalAsistencia .form-group textarea').attr('placeholder', placeholderAsistencia);
+      $('#modalAsistencia .form-group textarea').attr('rows', placeholderHeight);
+
+
+      $('#modalAsistencia').modal({
+        backdrop: 'static'
+      })
+
+    });
+
+
+    // Validacion de form.
+    function isOkAsistencia() {
+
+      // Remuevo mensajes de error anteriores
+      $("#error-form").remove();
+
+      // Variables necesarias para la validacion
+      var flag = true;
+      var err = '';
+
+
+      // Variables del form para validar.
+      var asistenteName = $.trim($("#nombreAsistente").val());
+      var asistenteComentarios = $.trim($("#comentariosAsistente").val());
+
+
+      // Nombre
+      if (asistenteName == '') {
+        flag = false;
+        err = lang_nombreRequerido;
+      } else {
+        if (asistenteName.length > 20) {
+          flag = false;
+          err = lang_caracteresNombreAsistencia;
+        }
+      }
+
+      // Comentarios
+      if (asistenteComentarios != '') {
+        if (asistenteComentarios.length > 100) {
+          flag = false;
+          err = lang_caracteresComentariosAsistencia;
+        }
+      }
+
+      // Si hay error
+      if (flag === false) {
+
+        // Imprimo el error
+        $('#formAsistencia').after('<span id="error-form">' + err + '</span>');
+
+      }
+
+      // Retorno el estado de la validacion
+      return flag;
+
+    }
+
+
+    // Enviar asistencia
+    $('body').on('click', '#sendAsistencia', function(e) {
+
+      e.preventDefault();
+
+
+      if (isOkAsistencia()) //Form bien validado
+      {
+
+        // Load and disabled buttom.
+        $("#sendAsistencia").text(lang_informandoAsistencia + "...");
+        $("#sendAsistencia").prop("disabled", true);
+
+        // Obtengo el Form.
+        var formulario = $("#formAsistencia")[0];
+
+        // Obtengo los datos del formulario
+        var datos = new FormData(formulario);
+
+
+        // Visualizar como viajan los datos
+        // for (var pair of datos.entries()) {
+        //   console.log(pair[0] + ", " + pair[1]);
+        // }
+
+
+        // Envio con fetch los datos mediante POST
+        fetch(_pathApp + "producto/fetchs/confirmar-asistencia.php", {
+            method: "POST",
+            body: datos
+          })
+          // Promesas fetch
+          .then(res => res.json())
+          .then(data => {
+
+            // Si recibo error 
+            if (data.error === true) {
+
+              $("#sendAsistencia").text(lang_confirmarAsistencia);
+              $("#sendAsistencia").prop("disabled", false);
+
+              // Imprimo el error
+              $('#formAsistencia').after('<span id="error-form">' + data.desc + '</span>');
+            }
+
+            // Si no hay error 
+            if (data.error === false) {
+
+              $("#sendAsistencia").text(lang_confirmarAsistencia);
+              $("#sendAsistencia").prop("disabled", false);
+
+
+              // Oculto elementos del form y reseteo
+              $('#formAsistencia')[0].reset();
+              $('#modalAsistencia .formulario-content, #modalAsistencia .modal-footer, #modalAsistencia h5').hide();
+
+
+
+              // Acomodo el css para centrar mensaje
+              $('#modalAsistencia .modal-body').addClass('fix-height');
+
+              // Muestro mensaje de exito
+              $('#modalAsistencia .msj-content').html(
+                "<h5>" + lang_asistenciaMsjExito_1 + "</h5><p>" + lang_asistenciaMsjExito_2 + "</p>"
+              ).show();
+
+
+              // Cierro modal y vuelvo a activar form
+              setTimeout(function() {
+
+                $('#modalAsistencia').modal('hide');
+                $('#modalAsistencia .formulario-content, #modalAsistencia .modal-footer, #modalAsistencia h5').show();
+                $('#modalAsistencia .msj-content').html('').hide();
+                $('#modalAsistencia .modal-body').removeClass('fix-height');
+
+              }, 4000);
+
+            }
+
+          });
+      }
+
+
+    });
+  </script>
+
+
+
+  <!-- Cuenta regresiva -->
+  <script>
+    // Set the date we're counting down to
+    var countDownDate = new Date(fechaCuentaRegresiva).getTime();
+
+    // Update the count down every 1 second
+    var x = setInterval(function() {
+
+      // Get today's date and time
+      var now = new Date().getTime();
+
+      // Find the distance between now and the count down date
+      var distance = countDownDate - now;
+
+      // Time calculations for days, hours, minutes and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      // Display the result in the element with id="demo"
+      // document.getElementById("reloj").innerHTML = days + " días " + hours + "hs " +
+      //   minutes + "m " + seconds + "s ";
+
+      $("#dias .number").text(days);
+      $("#horas .number").text(hours);
+      $("#minutos .number").text(minutes);
+      $("#segundos .number").text(seconds);
+
+
+
+      // If the count down is finished, write some text
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("reloj").innerHTML = '<p class="fin-cuenta">' +
+          lang_textoFinalCuentaRegresiva + '</p>';
+        $('.falta').text('');
+      }
+    }, 1000);
+  </script>
+
+
+
+  <!-- Modal sugerir cancion -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.sugerir-cancion', function(e) {
+
+      e.preventDefault();
+
+      // Remuevo mensajes de error anteriores
+      $("#error-form").remove();
+
+      $('#modalSugerirCancion').modal({
+        backdrop: 'static'
+      })
+
+    });
+
+
+
+    // Validacion de form.
+    function isOkSugerirCancion() {
+
+
+      // Remuevo mensajes de error anteriores
+      $("#error-form").remove();
+
+      // Variables necesarias para la validacion
+      var flag = true;
+      var err = '';
+
+
+      // Variables del form para validar.
+      var sugerenciaName = $.trim($("#nombreSugerencia").val());
+      var sugerenciaDescription = $.trim($("#descripcionSugerencia").val());
+      var sugerenciaLink = $.trim($("#linkSugerencia").val());
+
+
+
+      // Descripcion
+      if (sugerenciaDescription == '') {
+        flag = false;
+        err = lang_cancionRequerida;
+      } else {
+        if (sugerenciaDescription.length > 50) {
+          flag = false;
+          err = lang_caracteresCancionSugerencia;
+        }
+      }
+
+      // Link
+      if (sugerenciaLink != '') {
+
+        if (!is_url(sugerenciaLink)) {
+          flag = false;
+          err = lang_linkIncorrecto;
+        }
+        if (sugerenciaLink.length > 250) {
+          flag = false;
+          err = lang_caracteresLinkSugerencia;
+        }
+
+      }
+
+      // Nombre
+      if (sugerenciaName == '') {
+        flag = false;
+        err = lang_nombreRequerido;
+      } else {
+        if (sugerenciaName.length > 20) {
+          flag = false;
+          err = lang_caracteresNombreSugerencia;
+        }
+      }
+
+
+      // Si hay error
+      if (flag === false) {
+
+        // Imprimo el error
+        $('#formSugerirCancion').after('<span id="error-form">' + err + '</span>');
+
+      }
+
+      // Retorno el estado de la validacion
+      return flag;
+
+    }
+
+
+
+    // Enviar sugerencia
+    $('body').on('click', '#sendSugerenciaCancion', function(e) {
+
+      e.preventDefault();
+
+
+      if (isOkSugerirCancion()) //Form bien validado
+      {
+
+        // Load and disabled buttom.
+        $("#sendSugerenciaCancion").text(lang_enviandoSugerencia + "...");
+        $("#sendSugerenciaCancion").prop("disabled", true);
+
+        // Obtengo el Form.
+        var formulario = $("#formSugerirCancion")[0];
+
+        // Obtengo los datos del formulario
+        var datos = new FormData(formulario);
+
+
+        // Visualizar como viajan los datos
+        for (var pair of datos.entries()) {
+          console.log(pair[0] + ", " + pair[1]);
+        }
+
+
+        // Envio con fetch los datos mediante POST
+        fetch(_pathApp + "producto/fetchs/sugerir-cancion.php", {
+            method: "POST",
+            body: datos
+          })
+          // Promesas fetch
+          .then(res => res.json())
+          .then(data => {
+
+            // Si recibo error 
+            if (data.error === true) {
+
+              $("#sendSugerenciaCancion").text(lang_sugerirCancion);
+              $("#sendSugerenciaCancion").prop("disabled", false);
+
+              // Imprimo el error
+              $('#formSugerirCancion').after('<span id="error-form">' + data.desc + '</span>');
+            }
+
+            // Si no hay error 
+            if (data.error === false) {
+
+              $("#sendSugerenciaCancion").text(lang_sugerirCancion);
+              $("#sendSugerenciaCancion").prop("disabled", false);
+
+
+              // Oculto elementos del form y reseteo
+              $('#formSugerirCancion')[0].reset();
+              $('#modalSugerirCancion .formulario-content, #modalSugerirCancion .modal-footer, #modalSugerirCancion h5').hide();
+
+
+              // Acomodo el css para centrar mensaje
+              $('#modalSugerirCancion .modal-body').addClass('fix-height');
+
+
+              // Muestro mensaje de exito
+
+              $('#modalSugerirCancion .msj-content').html(
+                "<h5>" + lang_sugerirCancionMsjExito_1 + "</h5><p>" + lang_sugerirCancionMsjExito_2 + "</p>"
+              ).show();
+
+
+              // Cierro modal y vuelvo a activar form
+              setTimeout(function() {
+
+                $('#modalSugerirCancion').modal('hide');
+                $('#modalSugerirCancion .formulario-content, #modalSugerirCancion .modal-footer, #modalSugerirCancion h5').show();
+                $('#modalSugerirCancion .msj-content').html('').hide();
+                $('#modalSugerirCancion .modal-body').removeClass('fix-height');
+
+              }, 4000);
+
+
+            }
+
+          });
+      }
+
+
+    });
+  </script>
+
+
+
+  <!-- Modal Vestuario -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-vestuario', function(e) {
+
+      e.preventDefault();
+
+      $('#modalVestuario').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Modal Tips -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-tips', function(e) {
+
+      e.preventDefault();
+
+      $('#modalTips').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Modal Menu -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-menu', function(e) {
+
+      e.preventDefault();
+
+      $('#modalMenu').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+  <!-- Modal Tarjeta -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-tarjeta', function(e) {
+
+      e.preventDefault();
+
+      $('#modalTarjeta').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Modal Hotel -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-hotel', function(e) {
+
+      e.preventDefault();
+
+      $('#modalHotel').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Modal Bus -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-bus', function(e) {
+
+      e.preventDefault();
+
+      $('#modalBus').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Modal regalos -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-regalos', function(e) {
+
+      e.preventDefault();
+
+      $('#modalRegalos').modal({
+        backdrop: 'static'
+      })
+      $('#iban-msj').text('');
+      
+    });
+  </script>
+
+
+  <!-- Copy Clipboard -->
+  <script>
+    	function copyToCliBoard(text) {
+      			navigator.clipboard.writeText(text);
+    	}
+
+    		$('#iban-msj').text('');
+
+    		$('body').on('click', '#copy-iban', function(e) {
+
+          let textoCopiado = lang_textoCopiado;
+
+      		e.preventDefault();
+
+      		copyToCliBoard($('#iban').attr('data-iban'));
+
+      		$('#iban-msj').text(textoCopiado);
+
+    	});
+  </script>
+
+
+
+  <!-- Modal como llegar -->
+  <script>
+    // Abrir modal
+    $('body').on('click', 'a.modal-como-llegar', function(e) {
+
+      e.preventDefault();
+
+      var evento = $(this).attr('data-evento');
+
+      if (evento == 'Fiesta') {
+        var titleModalMapa = lang_titleModalMapaFiesta;
+
+        var latitudMapa = latitudFiesta;
+        var longitudMapa = longitudFiesta;
+        var linkMaps = linkMapsFiesta;
+      }
+
+      if (evento == 'Ceremonia') {
+        var titleModalMapa = lang_titleModalMapaCeremonia;
+
+        var latitudMapa = latitudCeremonia;
+        var longitudMapa = longitudCeremonia;
+        var linkMaps = linkMapsCeremonia;
+      }
+
+      // Cambio titulo
+      $('#modalMapa .modal-title').text(titleModalMapa);
+
+      // Genero el link para ampliar mapa
+      $('.ampliar-mapa').attr('href', linkMaps);
+
+      // Cambio mapa
+      initMap(latitudMapa, longitudMapa);
+
+      $('#modalMapa').modal({
+        backdrop: 'static'
+      })
+
+    });
+  </script>
+
+
+
+  <!-- Instagram parallax -->
+  <script>
+    // Si el ancho es de Telefono
+    if ($(window).width() < 768) {
+
+      // Aceptar webp?
+      if (support_format_webp()) {
+        var imageInstagramParallax = 'img/instagram_mobile.webp';
+      } else {
+        var imageInstagramParallax = 'img/instagram_mobile.jpg';
+      }
+
+    } else {
+
+      // Aceptar webp?
+      if (support_format_webp()) {
+        var imageInstagramParallax = 'img/instagram.webp';
+      } else {
+        var imageInstagramParallax = 'img/instagram.jpg';
+      }
+
+    }
+
+    $('.instagram').parallax({
+      imageSrc: _pathProducto + imageInstagramParallax
+    });
+  </script>
+
+
+  <!-- Api Maps-->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC_3ZK1od6HtymslnbVFuzpUbMfrCRVqzM&callback=initMap&r=1369269056">
+  </script>
+
+
+  <!-- Config map -->
+  <script>
+    function initMap(latitud = 0, longitud = 0) {
+
+      var myLatLng = {
+        lat: latitud,
+        lng: longitud
+      };
+
+      var mapOptions = {
+        // How zoomed in you want the map to start at (always required)
+        zoom: 15,
+        scrollwheel: false,
+        disableDefaultUI: false,
+
+        // The latitude and longitude to center the map (always required)
+        center: new google.maps.LatLng(latitud, longitud),
+
+        // How you would like to style the map.
+        // This is where you would paste any style found on Snazzy Maps.
+        styles: [{
+            "featureType": "administrative",
+            "elementType": "labels.text.fill",
+            "stylers": [{
+              "color": "#6195a0"
+            }]
+          },
+          {
+            "featureType": "landscape",
+            "elementType": "all",
+            "stylers": [{
+              "color": "#f2f2f2"
+            }]
+          },
+          {
+            "featureType": "landscape",
+            "elementType": "geometry.fill",
+            "stylers": [{
+              "color": "#ffffff"
+            }]
+          },
+          {
+            "featureType": "poi",
+            "elementType": "all",
+            "stylers": [{
+              "visibility": "off"
+            }]
+          },
+          {
+            "featureType": "poi.park",
+            "elementType": "geometry.fill",
+            "stylers": [{
+                "color": "#e6f3d6"
+              },
+              {
+                "visibility": "on"
+              }
+            ]
+          },
+          {
+            "featureType": "road",
+            "elementType": "all",
+            "stylers": [{
+                "saturation": -100
+              },
+              {
+                "lightness": 45
+              },
+              {
+                "visibility": "simplified"
+              }
+            ]
+          },
+          {
+            "featureType": "road.highway",
+            "elementType": "all",
+            "stylers": [{
+              "visibility": "simplified"
+            }]
+          },
+          {
+            "featureType": "road.highway",
+            "elementType": "geometry.fill",
+            "stylers": [{
+                "color": "#f4d2c5"
+              },
+              {
+                "visibility": "simplified"
+              }
+            ]
+          },
+          {
+            "featureType": "road.highway",
+            "elementType": "labels.text",
+            "stylers": [{
+              "color": "#4e4e4e"
+            }]
+          },
+          {
+            "featureType": "road.arterial",
+            "elementType": "geometry.fill",
+            "stylers": [{
+              "color": "#f4f4f4"
+            }]
+          },
+          {
+            "featureType": "road.arterial",
+            "elementType": "labels.text.fill",
+            "stylers": [{
+              "color": "#787878"
+            }]
+          },
+          {
+            "featureType": "road.arterial",
+            "elementType": "labels.icon",
+            "stylers": [{
+              "visibility": "off"
+            }]
+          },
+          {
+            "featureType": "transit",
+            "elementType": "all",
+            "stylers": [{
+              "visibility": "off"
+            }]
+          },
+          {
+            "featureType": "water",
+            "elementType": "all",
+            "stylers": [{
+                "color": "#eaf6f8"
+              },
+              {
+                "visibility": "on"
+              }
+            ]
+          },
+          {
+            "featureType": "water",
+            "elementType": "geometry.fill",
+            "stylers": [{
+              "color": "#eaf6f8"
+            }]
+          }
+        ]
+
+      };
+
+      var mapElement = document.getElementById('googleMap');
+
+      var map = new google.maps.Map(mapElement, mapOptions);
+
+      var marker = new google.maps.Marker({
+        position: myLatLng,
+        map: map,
+      });
+
+    }
+  </script>
+
+
+  <!-- AddEvent script -->
+  <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+
+
+  <!-- AddEvent Settings -->
+  <script type="text/javascript">
+    window.addeventasync = function() {
+      addeventatc.settings({
+
+        css: false,
+
+        appleical: {
+          show: true,
+          text: "Apple Calendar"
+        },
+        google: {
+          show: true,
+          text: "Google <em>(online)</em>"
+        },
+        office365: {
+          show: true,
+          text: "Office 365 <em>(online)</em>"
+        },
+        outlook: {
+          show: true,
+          text: "Outlook"
+        },
+        outlookcom: {
+          show: true,
+          text: "Outlook.com <em>(online)</em>"
+        },
+        yahoo: {
+          show: true,
+          text: "Yahoo <em>(online)</em>"
+        },
+        facebook: {
+          show: true,
+          text: "Facebook"
+        }
+      });
+    };
+  </script>
+
+
+
+  <!-- Idiomas segun config de invitacion -->
+  
+
+
+
+
+
+
+<!-- Portada parallax -->
+<script>
+  if (device == 'mobile' || $(window).width() < 768) {
+
+    // Aceptar webp?
+    if (support_format_webp()) {
+      var imageParallax = 'img/portada-mobile.webp';
+    } else {
+      var imageParallax = 'img/portada-mobile.jpg';
+    }
+
+  } else {
+
+    // Aceptar webp?
+    if (support_format_webp()) {
+      var imageParallax = 'img/portada.webp';
+    } else {
+      var imageParallax = 'img/portada.jpg';
+    }
+
+  }
+
+  $('.portada').parallax({
+    imageSrc: _pathProducto + imageParallax
+  });
+</script>
+
+
+
+
+
+
+
+
+</body>
+
+</html>
